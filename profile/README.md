@@ -1,4 +1,4 @@
-## Human biology and cancer therapeutics research group
+## Computational biology tools from the Kentsis Research Group
 
 <!--
 
